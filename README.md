@@ -1,17 +1,17 @@
 # Twilo_REST_API
 Created a REST API to send SMS 
 
-# What does this API do? 
+## What does this API do? 
 
-# How do I use this API?
+## How do I use this API?
 
-# What tech is used to create this API? 
+## What tech is used to create this API? 
 #Python #node.JS #...
 
-# What functions were used? 
+## What functions were used? 
 Refer to the FunctionStore Repo for all go-to function for API dev.
 
-# What I Learned
+## What I Learned
 
 Q. 
 A. 
@@ -25,6 +25,6 @@ A.
 Q.
 A.
 
-# Messy Notes :D 
+## Messy Notes :D 
 
 
